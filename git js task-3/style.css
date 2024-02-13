@@ -1,0 +1,26 @@
+
+
+
+
+
+.container{
+    padding-left: 30%;
+    margin-top: 13%;
+   }
+
+body{
+    background-image: url(wp2919284.jpg);
+   }
+ #error{
+    color: red;
+    font-weight: 700;}
+#taskList{   
+        color:white;
+        padding-left: 35%;
+        font-weight: 600;
+        
+
+   }
+   .text-dark{padding-left: 12%;}
+   button{width: 160px;height: 40px;}
+   #task{width: 300px;height:40px;}
